@@ -1,6 +1,22 @@
 
 # ice_breaker
 
+## Activar entorno:
+
+```bash
+  source venv/bin/activate
+```
+
+## Link de chat:
+
+https://chatgpt.com/share/676d92a1-1b10-800a-85c3-521d7158429d
+
+
+
+
+
+
+
 A repository for learning LangChain🦜🔗  by building a generative ai application.
 
 This is a web application crawling Linkedin & Twitter data about a person and customizes an ice breaker with them.
